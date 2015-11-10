@@ -10,6 +10,14 @@ For levels 1-3  you should start a new bluej project.
 
 For level 3 you may wish to download the _StringInput_ class from github and put it into your new bluej project. 
 
+###Level 0: Exercising your code
+
+Write a method for your _Calculation_ class from the previous practical which executes all the methods you wrote, showing
+
+* the method name
+* the inputs
+* the outputs
+
 ###Level 1: Modelling a Class
 Develop on paper a class diagram that represents the problem below. Your
 model should consider the following points:
