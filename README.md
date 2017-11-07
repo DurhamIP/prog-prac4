@@ -1,8 +1,8 @@
-#Introduction to Programming
+# Introduction to Programming
 
-##Practical 4
+## Practical 4
 
-###Instructions
+### Instructions
 
 For level 0 you need to adapt your _Calculation_ class from the previous practical. 
 
@@ -10,7 +10,7 @@ For levels 1-3  you should start a new bluej project.
 
 For level 3 you may wish to download the _StringInput_ class from github and put it into your new bluej project. 
 
-###Level 0: Exercising your code
+### Level 0: Exercising your code
 
 Write a method for your _Calculation_ class from the previous practical which executes all the methods you wrote, showing
 
@@ -18,7 +18,7 @@ Write a method for your _Calculation_ class from the previous practical which ex
 * the inputs
 * the outputs
 
-###Level 1: Modelling a Class
+### Level 1: Modelling a Class
 Develop on paper a class diagram that represents the problem below. Your
 model should consider the following points:
 
@@ -43,7 +43,7 @@ mean:
 
 Initially you will be using bluej as the user interface, so the player will start a game by calling a constructor, and make guesses by calling a method.
 
-###Level 2: Implementing Your Model
+### Level 2: Implementing Your Model
 
 Now try to implement the class that you modelled in above. You should do this
 in a new BlueJ project, so on the BlueJ menu, select Project -> New Project
@@ -83,7 +83,7 @@ decimal place so will always round down.
 
 Once it is complete, test your program to see if you can play the game.
 
-###Level 3: Extending Your Implementation
+### Level 3: Extending Your Implementation
 
 1. Write a _GameManager_ class that allows you to play multiple games via the console, and that records and reports the average number of guesses it takes. The provided _StringInput_ class shows how you can do input from the keyboard. Remember, when comparing two Strings use the boolean expression `string1.equals(string2)`
 
